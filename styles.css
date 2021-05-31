@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:wght@300&display=swap');
+
+body{
+    background-image:url(/images/merlin_183091902_30436ceb-ebff-4544-b155-131aecc3057f-superJumbo.jpg) ;
+    color: white;
+    text-align: center;
+    font-family: 'Averia Serif Libre', cursive;
+}
+h1{
+    padding-top: 3rem;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+}
+button{
+    block-size: border-box;
+    color: white;
+    padding: 1rem 1rem;
+    border-radius: 0.5rem;
+    font-weight: 900;
+    border: none;
+    width: 200px;
+    margin-bottom: 5px;
+}
+#btn-increment{
+    background-color: darkred;
+}
+#btn-save{
+    background-color: darkgreen;  
+}
+#save-txt{
+    font-size: larger;
+    font-weight: bold; 
+}
+
+
+
